@@ -1,0 +1,17 @@
+[21-Dec-2020 13:00:13 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bigdo120/quickershoppy.in/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[21-Dec-2020 13:06:18 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bigdo120/quickershoppy.in/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[21-Dec-2020 13:13:18 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bigdo120/quickershoppy.in/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[21-Dec-2020 13:21:29 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bigdo120/quickershoppy.in/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[21-Dec-2020 13:48:41 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bigdo120/quickershoppy.in/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[21-Dec-2020 13:57:50 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bigdo120/quickershoppy.in/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[21-Dec-2020 14:12:20 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bigdo120/quickershoppy.in/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[21-Dec-2020 14:16:41 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bigdo120/quickershoppy.in/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[21-Dec-2020 14:17:01 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bigdo120/quickershoppy.in/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[21-Dec-2020 14:51:42 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bigdo120/quickershoppy.in/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[21-Dec-2020 23:21:12 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bigdo120/quickershoppy.in/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[22-Dec-2020 01:15:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/bigdo120/quickershoppy.in/application/controllers/WebController.php on line 47
+[26-Feb-2021 12:42:20 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bigdo120/quickershoppy.com/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[26-Feb-2021 12:43:51 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bigdo120/quickershoppy.com/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[26-Feb-2021 12:44:19 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bigdo120/quickershoppy.com/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[26-Feb-2021 12:50:34 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/bigdo120/quickershoppy.com/system/database/drivers/mysqli/mysqli_driver.php on line 393
+[26-Feb-2021 12:51:35 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/bigdo120/quickershoppy.com/application/models/DatabaseModels.php on line 13

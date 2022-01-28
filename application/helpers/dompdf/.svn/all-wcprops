@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/clinic/!svn/ver/46/application/helpers/dompdf
+END
+HACKING
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/clinic/!svn/ver/2/application/helpers/dompdf/HACKING
+END
+docblox.dist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/clinic/!svn/ver/2/application/helpers/dompdf/docblox.dist.xml
+END
+load_font.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/clinic/!svn/ver/2/application/helpers/dompdf/load_font.php
+END
+LICENSE.LGPL
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/clinic/!svn/ver/2/application/helpers/dompdf/LICENSE.LGPL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/clinic/!svn/ver/2/application/helpers/dompdf/ChangeLog
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/clinic/!svn/ver/2/application/helpers/dompdf/TODO
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/clinic/!svn/ver/2/application/helpers/dompdf/changelog.txt
+END
+dompdf_config.custom.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/clinic/!svn/ver/2/application/helpers/dompdf/dompdf_config.custom.inc.php
+END
+dompdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/clinic/!svn/ver/2/application/helpers/dompdf/dompdf.php
+END
+dompdf_config.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/clinic/!svn/ver/2/application/helpers/dompdf/dompdf_config.inc.php
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/clinic/!svn/ver/2/application/helpers/dompdf/readme.html
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/clinic/!svn/ver/2/application/helpers/dompdf/INSTALL
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/clinic/!svn/ver/2/application/helpers/dompdf/index.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/clinic/!svn/ver/2/application/helpers/dompdf/README
+END
