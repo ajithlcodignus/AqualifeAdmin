@@ -20,17 +20,17 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="card">
-                        <form role="form" method="post" action="<?= base_url('admin/update_banner');?>" id="quickForm"  enctype="multipart/form-data">
+                        <form role="form" method="post" action="<?= base_url('admin/update_banner'); ?>" id="quickForm" enctype="multipart/form-data">
                             <div class="card-body">
                                 <div class="row">
-                                    <input type="hidden" name="id" value="<?= $banner_details->id; ?>"/>
+                                    <input type="hidden" name="id" value="<?= $banner_details->id; ?>" />
                                     <div class="col-md-4">
                                         <div class="form-group">
                                             <label for="name">Description</label>
                                             <input type="text" name="description" class="form-control" value="<?= $banner_details->description; ?>" required="" />
                                         </div>
-				    </div>
-				    <div class="col-md-4">
+                                    </div>
+                                    <div class="col-md-4">
                                         <div class="form-group">
                                             <label for="status">Status</label>
                                             <select class="form-control" name="status" style="width: 100%;" required="">
@@ -66,4 +66,3 @@
     </div>
     <!-- /.content -->
 </div>
-
